@@ -1,0 +1,15 @@
+Chapter 2 – Meaningful Names
+
+This chapter stresses choosing precise, descriptive names for variables, functions, classes, and modules. Good names help readers understand intent immediately, reducing the need for comments. Uncle Bob explains that names should convey purpose, avoid misleading abbreviations, and follow consistent conventions so the code becomes self-explanatory. Students learn that clarity in naming directly improves readability and collaboration, because other developers can follow the logic without extra explanations.
+
+Chapter 3 – Functions
+
+The chapter introduces the principle that functions should be small, focused, and do a single thing. Functions that perform multiple tasks become difficult to test, reason about, and maintain. Uncle Bob also highlights the importance of clear function names, minimal arguments, and avoiding side effects. By refactoring larger functions into smaller and more coherent ones, students learn to build cleaner, modular code that scales effectively in larger projects.
+
+Chapter 4 – Comments
+
+Uncle Bob explains that comments are helpful only when they add essential context that cannot be expressed directly in code. Comments should not compensate for unclear logic or poor naming. Instead, they should clarify intent, explain complex decisions, or document important warnings. The chapter encourages students to write code that communicates clearly on its own and to use comments sparingly and responsibly to enhance understanding rather than patch weaknesses.
+
+Chapter 6 – Objects and Data Structures
+
+This chapter explores how objects and data structures support different approaches to organising programs. Objects encapsulate behaviour and hide implementation details, while data structures expose their data and rely on external functions. Understanding the balance between the two helps students design systems that are flexible and easier to maintain. Uncle Bob outlines how the choice between object-oriented and data-centric designs affects class responsibilities, method design, and the overall architecture of an application.
